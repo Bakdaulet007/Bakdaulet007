@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there! I'm Bakdaulet
 
-<!--
-**Bakdaulet007/Bakdaulet007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Student at SDU
+- ⚽ Passionate about football
+- 💻 Exploring coding and tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Interests
+- Programming and development
+- Learning new technologies
+- Playing football in my free time
+
+## 📫 Connect with Me
+Feel free to check out my projects and connect with me!
+
+---
+⭐ Keep coding and having fun!
